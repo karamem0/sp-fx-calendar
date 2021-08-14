@@ -3,7 +3,7 @@
   "solution": {
     "name": "Calendar",
     "id": "a1f999b8-7b84-41d8-8f05-3f8c02dd3688",
-    "version": "1.5.7.0",
+    "version": "1.6.0.0",
     "includeClientSideAssets": true,
     "isDomainIsolated": false,
     "skipFeatureDeployment": true,
@@ -12,7 +12,7 @@
         "title": "Calendar",
         "description": "Displays events in the calendar view.",
         "id": "066d2838-2a3c-4d64-b09c-5d8f5f9cec11",
-        "version": "1.5.7.0"
+        "version": "1.6.0.0"
       }
     ],
     "developer": {

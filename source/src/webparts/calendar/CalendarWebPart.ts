@@ -80,7 +80,7 @@ export default class CalendarWebPart extends BaseClientSideWebPart<ICalendarWebP
   }
 
   protected get dataVersion(): Version {
-    return Version.parse('1.5.7');
+    return Version.parse('1.6.0');
   }
 
   protected getPropertyPaneConfiguration(): IPropertyPaneConfiguration {

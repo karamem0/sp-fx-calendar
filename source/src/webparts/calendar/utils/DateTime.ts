@@ -1,4 +1,4 @@
-const dateFormat = require('dateformat') as Function;
+import * as dateFormat from 'dateformat';
 
 export class DateTime {
 

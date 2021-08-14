@@ -2,12 +2,12 @@
 
 SPFxCalendar is a SharePoint webpart that displays event list items in the calendar view.
 
-[![Build Status](https://dev.azure.com/karamem0/SPFxCalendar/_apis/build/status/SPFxCalendar?branchName=master)](https://dev.azure.com/karamem0/SPFxCalendar/_build/latest?definitionId=50&branchName=master)
+[![.github/workflows/main.yml](https://github.com/karamem0/spfxcalendar/actions/workflows/main.yml/badge.svg)](https://github.com/karamem0/spfxcalendar/actions/workflows/main.yml)
 [![License](https://img.shields.io/github/license/karamem0/spfxcalendar.svg)](https://github.com/karamem0/spfxcalendar/blob/master/LICENSE)
 
 ## Download
 
-### [calendar.sppkg](https://github.com/karamem0/spfxcalendar/releases/download/v1.5.7/calendar.sppkg)
+### [calendar.sppkg](https://github.com/karamem0/spfxcalendar/releases/download/v1.6.0/calendar.sppkg)
 
 ## Screenshot
 

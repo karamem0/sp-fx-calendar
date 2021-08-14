@@ -1,6 +1,6 @@
 {
   "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/deploy-azure-storage.schema.json",
-  "workingDir": "./temp/deploy/",
+  "workingDir": "./releases/assets/",
   "account": "<!-- STORAGE ACCOUNT NAME -->",
   "container": "spfxcalendar",
   "accessKey": "<!-- ACCESS KEY -->"
